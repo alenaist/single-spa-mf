@@ -1,0 +1,13 @@
+.home {
+    height: 100vh;
+    width: 100vw;
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(218, 218, 218);
+}
+
+#myCanvas {
+    border: 1px solid black;
+}
